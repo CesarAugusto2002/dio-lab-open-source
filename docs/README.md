@@ -17,12 +17,11 @@ docs/
 │   └── js/
 │       └── scripts.js
 
-testando alteração
 ├── favicon.ico
 ├── index.html
 └── README.md
 ```
-
+aula dio alterações testando
 ## Tecnologias
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
